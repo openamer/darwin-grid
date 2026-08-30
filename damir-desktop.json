@@ -1,13 +1,13 @@
 {
- "exported": "2026-08-30T15:41:24.265653+00:00",
+ "exported": "2026-08-30T16:58:09.006887+00:00",
  "population": {
   "auto-env-checker": {
    "wins": 1,
-   "losses": 0
+   "losses": 6
   },
   "self-rewriter": {
    "wins": 1,
-   "losses": 0
+   "losses": 18
   },
   "darwin-session-recall": {
    "wins": 1,
@@ -26,10 +26,26 @@
    "losses": 1
   },
   "darwin-harvested-n-usr-bin-bash-line-3-c-users-damir-boun": {
-   "wins": 1,
+   "wins": 2,
    "losses": 0
   },
   "darwin-harvested-users-damir-appdata-local-openamer-lapto": {
+   "wins": 1,
+   "losses": 0
+  },
+  "alpha": {
+   "wins": 0,
+   "losses": 3
+  },
+  "darwin-harvested-c-users-damir-openamer-repo-3": {
+   "wins": 2,
+   "losses": 0
+  },
+  "darwin-harvested-because-openamer-bootstrap-is-a-n51-": {
+   "wins": 2,
+   "losses": 0
+  },
+  "darwin-harvested-openamer-agent-a": {
    "wins": 1,
    "losses": 0
   }
@@ -1584,6 +1600,1190 @@
     "kind": "predation",
     "when": "2026-08-30T15:37:29.982989+00:00",
     "overlap": 0.6
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T15:42:22.919431+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:42:22.919431+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T15:42:22.919431+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T15:42:22.919431+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T15:42:22.922494+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T15:42:22.925573+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:42:22.925573+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T15:42:22.925573+00:00"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "self-rewriter__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T15:46:22.233793+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:46:22.233793+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "train-from-usage",
+    "child": "train-from-usage__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:46:22.233793+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "discord-server-management",
+    "child": "discord-server-management__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:46:22.233793+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "plugin-api",
+    "child": "plugin-api__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:46:22.233793+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-because-openamer-bootstrap-is-a-n51-top",
+    "kind": "speciation",
+    "when": "2026-08-30T15:46:22.233793+00:00"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-tmp-deepseek-harness-agents-skills",
+    "kind": "speciation",
+    "when": "2026-08-30T15:46:22.233793+00:00"
+   },
+   {
+    "parent": "darwin-harvested-n-usr-bin-bash-line-3-c-users-damir-boun",
+    "child": "darwin-harvested-c-users-damir-openamer-repo-3",
+    "kind": "predation",
+    "when": "2026-08-30T15:46:22.233793+00:00",
+    "overlap": 0.67
+   },
+   {
+    "parent": "darwin-harvested-c-users-damir-openamer-repo-3",
+    "child": "darwin-harvested-c-users-damir-openamer-repo-cron-autotes",
+    "kind": "predation",
+    "when": "2026-08-30T15:46:22.233793+00:00",
+    "overlap": 0.71
+   },
+   {
+    "parent": "darwin-harvested-c-users-damir-openamer-repo-3",
+    "child": "darwin-harvested-c-users-damir-openamer-repo-desktop-plug",
+    "kind": "predation",
+    "when": "2026-08-30T15:46:22.233793+00:00",
+    "overlap": 0.71
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T15:47:47.531369+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:47:47.531369+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T15:47:47.531369+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T15:47:47.531369+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T15:47:47.534368+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T15:47:47.537428+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:47:47.537428+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T15:47:47.537428+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T15:49:01.909735+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:49:01.909735+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T15:49:01.909735+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T15:49:01.909735+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T15:49:01.912736+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T15:49:01.915824+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:49:01.915824+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T15:49:01.915824+00:00"
+   },
+   {
+    "parent": "x",
+    "child": "darwin-harvested-r-n-short-test-summary-info",
+    "kind": "speciation",
+    "when": "2026-08-30T15:53:19.105749+00:00"
+   },
+   {
+    "parent": "x",
+    "child": "darwin-harvested-tmp-deepseek-harness",
+    "kind": "speciation",
+    "when": "2026-08-30T15:53:19.105749+00:00"
+   },
+   {
+    "parent": "x",
+    "child": "darwin-harvested-git-credentials",
+    "kind": "speciation",
+    "when": "2026-08-30T15:53:19.105749+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T15:54:30.311627+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:54:30.311627+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T15:54:30.311627+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T15:54:30.311627+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T15:54:30.314681+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T15:54:30.317681+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:54:30.317681+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T15:54:30.317681+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T15:59:25.389077+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:59:25.389077+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T15:59:25.389077+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T15:59:25.389077+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T15:59:25.392171+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T15:59:25.395227+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T15:59:25.395227+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T15:59:25.395227+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:06:29.413036+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:06:29.413036+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T16:06:29.413036+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:06:40.513854+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:06:40.513854+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T16:06:40.513854+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T16:06:40.513854+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T16:06:40.520961+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:06:40.522961+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:06:40.522961+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T16:06:40.522961+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:13:38.054688+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:13:38.054688+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T16:13:38.054688+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T16:13:38.054688+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T16:13:38.058749+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:13:38.062746+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:13:38.062746+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T16:13:38.062746+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:20:58.672248+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:20:58.672248+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T16:20:58.672248+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T16:20:58.672248+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T16:20:58.675249+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:20:58.677313+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:20:58.677313+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T16:20:58.677313+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:26:34.037839+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:26:34.037839+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T16:26:34.037839+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T16:26:34.037839+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T16:26:34.040881+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:26:34.042976+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:26:34.042976+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T16:26:34.042976+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:31:24.940952+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:31:24.940952+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T16:31:24.940952+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T16:31:24.940952+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T16:31:24.943953+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:31:24.946041+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:31:24.946041+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T16:31:24.946041+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:32:12.734476+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:32:12.734476+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T16:32:12.734476+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T16:32:12.734476+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T16:32:12.744123+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:32:12.753814+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:32:12.753814+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T16:32:12.753814+00:00"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "self-rewriter__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:42:41.675270+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:42:41.675270+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "train-from-usage",
+    "child": "train-from-usage__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:42:41.675270+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "discord-server-management",
+    "child": "discord-server-management__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:42:41.675270+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "plugin-api",
+    "child": "plugin-api__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:42:41.675270+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-because-openamer-bootstrap-is-a-n51-",
+    "kind": "speciation",
+    "when": "2026-08-30T16:42:41.675270+00:00"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-openamer-browser",
+    "kind": "speciation",
+    "when": "2026-08-30T16:42:41.675270+00:00"
+   },
+   {
+    "parent": "introspection",
+    "child": "darwin-gap-weak-population",
+    "kind": "gap-closure",
+    "when": "2026-08-30T16:42:54.720295+00:00",
+    "gap": "weak-population"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:43:12.974547+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:43:12.974547+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T16:43:12.974547+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T16:43:12.974547+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T16:43:12.981486+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "self-rewriter__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:49:10.603198+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:49:10.603198+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "train-from-usage",
+    "child": "train-from-usage__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:49:10.603198+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "discord-server-management",
+    "child": "discord-server-management__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:49:10.603198+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "plugin-api",
+    "child": "plugin-api__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:49:10.603198+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-openamer-agent-o",
+    "kind": "speciation",
+    "when": "2026-08-30T16:49:10.603198+00:00"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-mcp-bridge-ini",
+    "kind": "speciation",
+    "when": "2026-08-30T16:49:10.603198+00:00"
+   },
+   {
+    "parent": "darwin-harvested-because-openamer-bootstrap-is-a-n51-",
+    "child": "darwin-harvested-because-openamer-bootstrap-is-a-n51-top",
+    "kind": "predation",
+    "when": "2026-08-30T16:49:10.603198+00:00",
+    "overlap": 0.86
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "self-rewriter__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:49:41.534533+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:49:41.534533+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "train-from-usage",
+    "child": "train-from-usage__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:49:41.534533+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "discord-server-management",
+    "child": "discord-server-management__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:49:41.534533+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "plugin-api",
+    "child": "plugin-api__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:49:41.534533+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-agents-skills",
+    "kind": "speciation",
+    "when": "2026-08-30T16:49:41.534533+00:00"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-openamer-agent-a",
+    "kind": "speciation",
+    "when": "2026-08-30T16:49:41.534533+00:00"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "self-rewriter__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:51:36.238112+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:51:36.238112+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "train-from-usage",
+    "child": "train-from-usage__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:51:36.238112+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "discord-server-management",
+    "child": "discord-server-management__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:51:36.238112+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "plugin-api",
+    "child": "plugin-api__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:51:36.238112+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-cron-jobs-json",
+    "kind": "speciation",
+    "when": "2026-08-30T16:51:36.238112+00:00"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-profiles-default",
+    "kind": "speciation",
+    "when": "2026-08-30T16:51:36.238112+00:00"
+   },
+   {
+    "parent": "darwin-harvested-because-openamer-bootstrap-is-a-n51-",
+    "child": "darwin-harvested-openamer-agent-a",
+    "kind": "predation",
+    "when": "2026-08-30T16:51:36.238112+00:00",
+    "overlap": 0.67
+   },
+   {
+    "parent": "darwin-harvested-openamer-agent-a",
+    "child": "darwin-harvested-openamer-agent-o",
+    "kind": "predation",
+    "when": "2026-08-30T16:51:36.238112+00:00",
+    "overlap": 0.67
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "self-rewriter__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:51:38.960982+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:51:38.960982+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "train-from-usage",
+    "child": "train-from-usage__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:51:38.960982+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "discord-server-management",
+    "child": "discord-server-management__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:51:38.960982+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "plugin-api",
+    "child": "plugin-api__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:51:38.960982+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-predictive-heal",
+    "kind": "speciation",
+    "when": "2026-08-30T16:51:38.960982+00:00"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "darwin-harvested-docs",
+    "kind": "speciation",
+    "when": "2026-08-30T16:51:38.960982+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:42.641904+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "self-rewriter__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:42.641904+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "train-from-usage",
+    "child": "train-from-usage__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:42.641904+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "discord-server-management",
+    "child": "discord-server-management__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:42.641904+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "plugin-api",
+    "child": "plugin-api__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:42.641904+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "darwin-harvested-skills-autonomou",
+    "kind": "speciation",
+    "when": "2026-08-30T16:52:42.641904+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "darwin-harvested-scripts-security",
+    "kind": "speciation",
+    "when": "2026-08-30T16:52:42.641904+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:45.114938+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "self-rewriter",
+    "child": "self-rewriter__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:45.114938+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "train-from-usage",
+    "child": "train-from-usage__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:45.114938+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "discord-server-management",
+    "child": "discord-server-management__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:45.114938+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "plugin-api",
+    "child": "plugin-api__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:45.114938+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "darwin-harvested-scripts-p",
+    "kind": "speciation",
+    "when": "2026-08-30T16:52:45.114938+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "darwin-harvested-n-permission-8-permission-denied-n-f",
+    "kind": "speciation",
+    "when": "2026-08-30T16:52:45.114938+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:41.298234+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "dead-skill",
+    "child": "dead-skill__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:41.298234+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-evidence-hygiene",
+    "kind": "speciation",
+    "when": "2026-08-30T16:52:41.298234+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "darwin-session-recall",
+    "kind": "speciation",
+    "when": "2026-08-30T16:52:41.298234+00:00"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutX",
+    "kind": "trial_win",
+    "when": "2026-08-30T16:52:41.299989+00:00",
+    "job_id": "job1",
+    "outcomes": {
+     "completed": 2,
+     "error": 0
+    }
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha__mutadd_verification_step",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:41.299989+00:00",
+    "op": "add_verification_step"
+   },
+   {
+    "parent": "beta",
+    "child": "beta__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-08-30T16:52:41.299989+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "alpha",
+    "child": "alpha+beta",
+    "kind": "crossover",
+    "when": "2026-08-30T16:52:41.299989+00:00"
    }
   ]
  },
@@ -1595,16 +2795,25 @@
    "born": "2026-08-30T13:52:32.590646+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 12
+   "losses": 20
+  },
+  {
+   "child": "auto-env-checker__mutadd_verification_step",
+   "parent": "auto-env-checker",
+   "op": "add_verification_step",
+   "born": "2026-08-30T16:52:45.114938+00:00",
+   "status": "candidate",
+   "wins": 0,
+   "losses": 1
   },
   {
    "child": "auto-env-checker__muttighten_trigger",
    "parent": "auto-env-checker",
    "op": "tighten_trigger",
-   "born": "2026-08-30T15:37:29.982989+00:00",
+   "born": "2026-08-30T16:51:38.960982+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 1
+   "losses": 3
   },
   {
    "child": "discord-server-management__mutbroaden_trigger",
@@ -1613,13 +2822,13 @@
    "born": "2026-08-30T14:44:13.320724+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 6
+   "losses": 14
   },
   {
    "child": "discord-server-management__muttighten_trigger",
    "parent": "discord-server-management",
    "op": "tighten_trigger",
-   "born": "2026-08-30T15:37:29.982989+00:00",
+   "born": "2026-08-30T16:52:45.114938+00:00",
    "status": "candidate",
    "wins": 0,
    "losses": 1
@@ -1631,7 +2840,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 16
+   "losses": 24
   },
   {
    "child": "openamer-plugin-development__muttighten_trigger",
@@ -1640,7 +2849,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 16
+   "losses": 24
   },
   {
    "child": "plugin-api__mutbroaden_trigger",
@@ -1649,13 +2858,13 @@
    "born": "2026-08-30T14:44:13.320724+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 6
+   "losses": 14
   },
   {
    "child": "plugin-api__muttighten_trigger",
    "parent": "plugin-api",
    "op": "tighten_trigger",
-   "born": "2026-08-30T15:37:29.982989+00:00",
+   "born": "2026-08-30T16:52:45.114938+00:00",
    "status": "candidate",
    "wins": 0,
    "losses": 1
@@ -1664,19 +2873,19 @@
    "child": "self-rewriter__mutadd_verification_step",
    "parent": "self-rewriter",
    "op": "add_verification_step",
-   "born": "2026-08-30T15:37:29.982989+00:00",
+   "born": "2026-08-30T16:51:38.960982+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 1
+   "losses": 3
   },
   {
    "child": "self-rewriter__muttighten_trigger",
    "parent": "self-rewriter",
    "op": "tighten_trigger",
-   "born": "2026-08-30T14:44:13.320724+00:00",
+   "born": "2026-08-30T16:52:45.114938+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 6
+   "losses": 1
   },
   {
    "child": "train-from-usage__mutadd_pitfall",
@@ -1685,7 +2894,7 @@
    "born": "2026-08-30T14:44:13.320724+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 6
+   "losses": 14
   },
   {
    "child": "train-from-usage__mutbroaden_trigger",
@@ -1694,13 +2903,13 @@
    "born": "2026-08-30T13:52:32.590646+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 12
+   "losses": 20
   },
   {
    "child": "train-from-usage__muttighten_trigger",
    "parent": "train-from-usage",
    "op": "tighten_trigger",
-   "born": "2026-08-30T15:37:29.982989+00:00",
+   "born": "2026-08-30T16:52:45.114938+00:00",
    "status": "candidate",
    "wins": 0,
    "losses": 1
@@ -1712,7 +2921,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 16
+   "losses": 24
   },
   {
    "child": "vscode-extension-scaffold__mutbroaden_trigger",
@@ -1721,7 +2930,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 16
+   "losses": 24
   }
  ],
  "quarantine_log": [],
