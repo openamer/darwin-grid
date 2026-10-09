@@ -1,5 +1,5 @@
 {
- "exported": "2026-10-09T00:27:05.672012+00:00",
+ "exported": "2026-10-09T19:46:32.015209+00:00",
  "population": {
   "s": {
    "wins": 1,
@@ -11,18 +11,18 @@
   },
   "darwin-harvested-training-online-buffer-jsonl": {
    "wins": 5,
-   "losses": 3
+   "losses": 4
   },
   "darwin-harvested-pfade": {
    "wins": 2,
    "losses": 3
   },
   "darwin-harvested-darwin-rollback-log-json": {
-   "wins": 6,
+   "wins": 7,
    "losses": 4
   },
   "darwin-harvested-darwin-population-json": {
-   "wins": 5,
+   "wins": 6,
    "losses": 4
   },
   "darwin-harvested-laptop-update-in-progress": {
@@ -135,7 +135,7 @@
   },
   "darwin-harvested-c-users-damir-openamer-repo-3": {
    "wins": 27,
-   "losses": 22
+   "losses": 23
   },
   "darwin-harvested-because-openamer-bootstrap-is-a-n51-": {
    "wins": 9,
@@ -154,7 +154,7 @@
    "losses": 23
   },
   "darwin-harvested-n-permission-8-permission-denied-n-f": {
-   "wins": 30,
+   "wins": 31,
    "losses": 18
   },
   "darwin-harvested-damir-bounds-height-no-suc": {
@@ -199,14 +199,14 @@
   },
   "darwin-harvested-cron-jobs-json": {
    "wins": 27,
-   "losses": 21
+   "losses": 22
   },
   "darwin-harvested-damir-bounds-width-no-such": {
    "wins": 5,
    "losses": 6
   },
   "darwin-harvested-damir-bounds-y-no-such-fil": {
-   "wins": 31,
+   "wins": 32,
    "losses": 16
   },
   "darwin-harvested-go-zip": {
@@ -239,7 +239,7 @@
   },
   "darwin-harvested-openamer-cli-main-py": {
    "wins": 30,
-   "losses": 17
+   "losses": 18
   },
   "darwin-harvested-openamer-browser": {
    "wins": 2,
@@ -254,7 +254,7 @@
    "losses": 3
   },
   "darwin-harvested-package-lock-json": {
-   "wins": 29,
+   "wins": 30,
    "losses": 18
   },
   "darwin-harvested-openamer-repo-cron-autotest-wrapper-": {
@@ -318,7 +318,7 @@
    "losses": 3
   },
   "darwin-harvested-scripts-darwin-engine-py": {
-   "wins": 23,
+   "wins": 24,
    "losses": 21
   },
   "darwin-harvested-training-internet-learn-log-jsonl": {
@@ -399,7 +399,7 @@
   },
   "darwin-harvested-im-subprocess-der-cron-wrapper-test-": {
    "wins": 8,
-   "losses": 8
+   "losses": 9
   },
   "darwin-harvested-bin-uv-exe-ven": {
    "wins": 1,
@@ -446,7 +446,7 @@
    "losses": 3
   },
   "darwin-harvested-z-b-torch-import-optional-machen-try": {
-   "wins": 10,
+   "wins": 11,
    "losses": 4
   },
   "darwin-harvested-tmp-check-online-l": {
@@ -458,7 +458,7 @@
    "losses": 3
   },
   "darwin-harvested-14-verify-the-deps-import-under-the-": {
-   "wins": 7,
+   "wins": 8,
    "losses": 3
   },
   "darwin-harvested-laptop-predictive-health": {
@@ -471,18 +471,18 @@
   },
   "darwin-harvested-darwin-autonomous-loop-json": {
    "wins": 7,
-   "losses": 2
+   "losses": 3
   },
   "darwin-harvested-a2a-brainlog-disabled-no-such-file-o": {
-   "wins": 8,
+   "wins": 9,
    "losses": 2
   },
   "darwin-harvested-cli-auto-tester-py": {
-   "wins": 6,
+   "wins": 7,
    "losses": 3
   },
   "darwin-harvested-agent-update-incomplete": {
-   "wins": 6,
+   "wins": 7,
    "losses": 4
   },
   "darwin-harvested-scripts-security-cve-scan-py": {
@@ -551,7 +551,7 @@
   },
   "darwin-harvested-trials-self-rewriter-6h-json": {
    "wins": 5,
-   "losses": 4
+   "losses": 5
   },
   "darwin-harvested-trials-fb6973a70e35-json": {
    "wins": 1,
@@ -599,10 +599,10 @@
   },
   "darwin-harvested-darwin-gate-queue-json": {
    "wins": 3,
-   "losses": 3
+   "losses": 4
   },
   "darwin-harvested-darwin-promoted": {
-   "wins": 4,
+   "wins": 5,
    "losses": 2
   },
   "darwin-harvested-r-n-file": {
@@ -611,11 +611,11 @@
   },
   "darwin-harvested-tmp-oa-home": {
    "wins": 4,
-   "losses": 2
+   "losses": 3
   },
   "darwin-harvested-gridverify-desktop-json": {
    "wins": 5,
-   "losses": 2
+   "losses": 3
   },
   "darwin-harvested-was-created-by-the-uv-installer-seed": {
    "wins": 1,
@@ -627,19 +627,19 @@
   },
   "darwin-harvested-repo-nworked-fine-an-msys-path-quirk": {
    "wins": 3,
-   "losses": 3
+   "losses": 4
   },
   "darwin-harvested-training-knowledge-to-action-py": {
    "wins": 2,
    "losses": 3
   },
   "darwin-harvested-kanban-db-py-l725-n-except-block-wit": {
-   "wins": 4,
+   "wins": 5,
    "losses": 3
   },
   "darwin-harvested-guardrails-py-l31-n-function": {
    "wins": 3,
-   "losses": 3
+   "losses": 4
   },
   "darwin-harvested-eol-probe-py": {
    "wins": 1,
@@ -678,12 +678,12 @@
    "losses": 3
   },
   "darwin-harvested-tmp-rm-py": {
-   "wins": 3,
+   "wins": 4,
    "losses": 2
   },
   "darwin-harvested-tmp-cleanup2-py": {
    "wins": 4,
-   "losses": 1
+   "losses": 2
   },
   "darwin-harvested-tmp-rm-learner-cron-py": {
    "wins": 2,
@@ -699,22 +699,22 @@
   },
   "darwin-harvested-scripts-run-tests-sh": {
    "wins": 5,
-   "losses": 1
+   "losses": 2
   },
   "darwin-harvested-darwin-tuning-json": {
    "wins": 3,
-   "losses": 2
+   "losses": 3
   },
   "darwin-harvested-training-tmp-py": {
    "wins": 3,
-   "losses": 2
+   "losses": 3
   },
   "darwin-harvested-scripts-does-not-exist-xyz-py": {
    "wins": 1,
    "losses": 3
   },
   "darwin-harvested-darwin-arena-json": {
-   "wins": 3,
+   "wins": 4,
    "losses": 2
   },
   "darwin-harvested-pfad-wiederholen": {
@@ -882,19 +882,19 @@
    "losses": 3
   },
   "darwin-harvested-pr47-body-json": {
-   "wins": 3,
+   "wins": 4,
    "losses": 1
   },
   "darwin-harvested-tmp-kta-probe-py": {
-   "wins": 2,
+   "wins": 3,
    "losses": 2
   },
   "darwin-harvested-vaultfinal-skills": {
    "wins": 2,
-   "losses": 2
+   "losses": 3
   },
   "darwin-harvested-scripts-self-learning-py": {
-   "wins": 3,
+   "wins": 4,
    "losses": 1
   },
   "darwin-harvested-darwin-harvested-blueprints-json": {
@@ -911,7 +911,7 @@
   },
   "darwin-harvested-vaultfinal-models": {
    "wins": 2,
-   "losses": 2
+   "losses": 3
   },
   "rsi-phase2-learned-proposals": {
    "wins": 2,
@@ -170104,6 +170104,2630 @@
     "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
     "kind": "crossover",
     "when": "2026-10-09T00:15:44.194551+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:30:39.116074+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:30:39.116074+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:30:39.116074+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:30:39.116074+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:30:39.116074+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T00:30:39.116074+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:30:45.807709+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:30:45.807709+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:30:45.807709+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:30:45.807709+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:30:45.807709+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T00:30:45.807709+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:45:39.501492+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:45:39.501492+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:45:39.501492+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:45:39.501492+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:45:39.501492+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T00:45:39.501492+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:45:45.648270+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:45:45.648270+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:45:45.648270+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:45:45.648270+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T00:45:45.648270+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T00:45:45.648270+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:00:39.944052+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:00:39.944052+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:00:39.944052+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:00:39.944052+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:00:39.944052+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T01:00:39.944052+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:00:45.697266+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:00:45.697266+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:00:45.697266+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:00:45.697266+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:00:45.697266+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T01:00:45.697266+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:15:40.405445+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:15:40.405445+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:15:40.405445+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:15:40.405445+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:15:40.405445+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T01:15:40.405445+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:15:46.096672+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:15:46.096672+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:15:46.096672+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:15:46.096672+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:15:46.096672+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T01:15:46.096672+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:30:00.364829+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:30:00.364829+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:30:00.364829+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:30:00.364829+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T01:30:00.364829+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T01:30:00.364829+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:00:01.594467+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:00:01.594467+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:00:01.594467+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:00:01.594467+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:00:01.594467+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T02:00:01.594467+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:15:02.112115+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:15:02.112115+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:15:02.112115+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:15:02.112115+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:15:02.112115+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T02:15:02.112115+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:30:02.539941+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:30:02.539941+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:30:02.539941+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:30:02.539941+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:30:02.539941+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T02:30:02.539941+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:45:03.479769+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:45:03.479769+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:45:03.479769+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:45:03.479769+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T02:45:03.479769+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T02:45:03.479769+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T03:30:05.403954+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T03:30:05.403954+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T03:30:05.403954+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T03:30:05.403954+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T03:30:05.403954+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T03:30:05.403954+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T03:45:54.869842+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T03:45:54.869842+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T03:45:54.869842+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T03:45:54.869842+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T03:45:54.869842+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T03:45:54.869842+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T04:03:05.050279+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T04:03:05.050279+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T04:03:05.050279+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T04:03:05.050279+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T04:03:05.050279+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T04:03:05.050279+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:00:32.434404+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:00:32.434404+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:00:32.434404+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:00:32.434404+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:00:32.434404+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T14:00:32.434404+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:00:55.743352+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:00:55.743352+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:00:55.743352+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:00:55.743352+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:00:55.743352+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T14:00:55.743352+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:15:32.871819+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:15:32.871819+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:15:32.871819+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:15:32.871819+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:15:32.871819+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T14:15:32.871819+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:15:48.924672+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:15:48.924672+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:15:48.924672+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:15:48.924672+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:15:48.924672+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T14:15:48.924672+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:30:33.467919+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:30:33.467919+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:30:33.467919+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:30:33.467919+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:30:33.467919+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T14:30:33.467919+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:30:54.817694+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:30:54.817694+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:30:54.817694+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:30:54.817694+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:30:54.817694+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T14:30:54.817694+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:45:33.891550+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:45:33.891550+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:45:33.891550+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:45:33.891550+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:45:33.891550+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T14:45:33.891550+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:45:41.010353+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:45:41.010353+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:45:41.010353+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:45:41.010353+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T14:45:41.010353+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T14:45:41.010353+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:00:34.392752+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:00:34.392752+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:00:34.392752+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:00:34.392752+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:00:34.392752+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T15:00:34.392752+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:01:04.872906+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:01:04.872906+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:01:04.872906+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:01:04.872906+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:01:04.872906+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T15:01:04.872906+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:15:34.857751+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:15:34.857751+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:15:34.857751+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:15:34.857751+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:15:34.857751+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T15:15:34.857751+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:15:44.298904+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:15:44.298904+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:15:44.298904+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:15:44.298904+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:15:44.298904+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T15:15:44.298904+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:30:35.360445+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:30:35.360445+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:30:35.360445+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:30:35.360445+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:30:35.360445+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T15:30:35.360445+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:30:42.230950+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:30:42.230950+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:30:42.230950+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:30:42.230950+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:30:42.230950+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T15:30:42.230950+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:45:35.891411+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:45:35.891411+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:45:35.891411+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:45:35.891411+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:45:35.891411+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T15:45:35.891411+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:45:48.024159+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:45:48.024159+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:45:48.024159+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:45:48.024159+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T15:45:48.024159+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T15:45:48.024159+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:00:38.162960+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:00:38.162960+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:00:38.162960+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:00:38.162960+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:00:38.162960+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T16:00:38.162960+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:01:29.178746+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:01:29.178746+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:01:29.178746+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:01:29.178746+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:01:29.178746+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T16:01:29.178746+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:15:37.311928+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:15:37.311928+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:15:37.311928+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:15:37.311928+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:15:37.311928+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T16:15:37.311928+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:15:44.505639+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:15:44.505639+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:15:44.505639+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:15:44.505639+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:15:44.505639+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T16:15:44.505639+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:30:31.510948+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:30:31.510948+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:30:31.510948+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:30:31.510948+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:30:31.510948+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T16:30:31.510948+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:30:51.765507+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:30:51.765507+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:30:51.765507+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:30:51.765507+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:30:51.765507+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T16:30:51.765507+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:45:31.914466+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:45:31.914466+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:45:31.914466+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:45:31.914466+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:45:31.914466+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T16:45:31.914466+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:45:39.974004+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:45:39.974004+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:45:39.974004+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:45:39.974004+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T16:45:39.974004+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T16:45:39.974004+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:00:33.037702+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:00:33.037702+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:00:33.037702+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:00:33.037702+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:00:33.037702+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T17:00:33.037702+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:01:09.175755+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:01:09.175755+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:01:09.175755+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:01:09.175755+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:01:09.175755+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T17:01:09.175755+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:15:33.032206+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:15:33.032206+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:15:33.032206+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:15:33.032206+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:15:33.032206+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T17:15:33.032206+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:15:59.799838+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:15:59.799838+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:15:59.799838+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:15:59.799838+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:15:59.799838+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T17:15:59.799838+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:30:33.480473+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:30:33.480473+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:30:33.480473+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:30:33.480473+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:30:33.480473+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T17:30:33.480473+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:30:58.202502+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:30:58.202502+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:30:58.202502+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:30:58.202502+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:30:58.202502+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T17:30:58.202502+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:45:33.939140+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:45:33.939140+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:45:33.939140+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:45:33.939140+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:45:33.939140+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T17:45:33.939140+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:45:53.874742+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:45:53.874742+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:45:53.874742+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:45:53.874742+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T17:45:53.874742+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T17:45:53.874742+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:00:34.451036+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:00:34.451036+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:00:34.451036+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:00:34.451036+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:00:34.451036+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T18:00:34.451036+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:00:43.534624+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:00:43.534624+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:00:43.534624+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:00:43.534624+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:00:43.534624+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T18:00:43.534624+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:15:34.894328+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:15:34.894328+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:15:34.894328+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:15:34.894328+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:15:34.894328+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T18:15:34.894328+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:15:53.471603+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:15:53.471603+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:15:53.471603+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:15:53.471603+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:15:53.471603+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T18:15:53.471603+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:30:35.486752+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:30:35.486752+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:30:35.486752+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:30:35.486752+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:30:35.486752+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T18:30:35.486752+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:31:01.527289+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:31:01.527289+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:31:01.527289+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:31:01.527289+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:31:01.527289+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T18:31:01.527289+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:45:42.243009+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:45:42.243009+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:45:42.243009+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:45:42.243009+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:45:42.243009+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T18:45:42.243009+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:49:13.995152+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:49:13.995152+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:49:13.995152+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:49:13.995152+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T18:49:13.995152+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T18:49:13.995152+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:11:45.438340+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:11:45.438340+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:11:45.438340+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:11:45.438340+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:11:45.438340+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T19:11:45.438340+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:12:04.734102+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:12:04.734102+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:12:04.734102+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:12:04.734102+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:12:04.734102+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T19:12:04.734102+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:15:47.383763+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:15:47.383763+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:15:47.383763+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:15:47.383763+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:15:47.383763+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T19:15:47.383763+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:16:12.198614+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:16:12.198614+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:16:12.198614+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:16:12.198614+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:16:12.198614+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T19:16:12.198614+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:30:47.930582+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:30:47.930582+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:30:47.930582+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:30:47.930582+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:30:47.930582+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T19:30:47.930582+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:30:55.112441+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:30:55.112441+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:30:55.112441+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:30:55.112441+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:30:55.112441+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T19:30:55.112441+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:45:29.852542+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:45:29.852542+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:45:29.852542+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:45:29.852542+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:45:29.852542+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T19:45:29.852542+00:00"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:45:49.940941+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:45:49.940941+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:45:49.940941+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "cdp-social-posting",
+    "child": "cdp-social-posting__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:45:49.940941+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-09T19:45:49.940941+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify+asi-capability-summary",
+    "kind": "crossover",
+    "when": "2026-10-09T19:45:49.940941+00:00"
    }
   ]
  },
@@ -170114,7 +172738,7 @@
     "a2a-brain-meshlearn-verify",
     "asi-capability-summary"
    ],
-   "born": "2026-10-09T00:15:44.194551+00:00",
+   "born": "2026-10-09T19:45:49.940941+00:00",
    "inherits": [
     "trigger (from A)",
     "verification (from B)",
@@ -170128,7 +172752,7 @@
    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
    "parent": "a2a-brain-meshlearn-verify",
    "op": "tighten_trigger",
-   "born": "2026-10-09T00:15:44.194551+00:00",
+   "born": "2026-10-09T19:45:49.940941+00:00",
    "status": "candidate",
    "wins": 0,
    "losses": 1,
@@ -170150,7 +172774,7 @@
    ],
    "status": "candidate",
    "wins": 0,
-   "losses": 1596
+   "losses": 1660
   },
   {
    "child": "asi-capability-summary__mutbroaden_trigger",
@@ -170159,7 +172783,7 @@
    "born": "2026-10-04T08:30:14.898680+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 477,
+   "losses": 541,
    "parent_probe": 1.0,
    "variant_probe": 1.0,
    "delta": 0.0
@@ -170168,7 +172792,7 @@
    "child": "asi-capability-summary__muttighten_trigger",
    "parent": "asi-capability-summary",
    "op": "tighten_trigger",
-   "born": "2026-10-09T00:15:44.194551+00:00",
+   "born": "2026-10-09T19:45:49.940941+00:00",
    "status": "candidate",
    "wins": 0,
    "losses": 1,
@@ -170190,7 +172814,7 @@
    ],
    "status": "candidate",
    "wins": 0,
-   "losses": 1927
+   "losses": 1991
   },
   {
    "child": "auto-env-checker+autonomous-learning-architecture",
@@ -170206,7 +172830,7 @@
    ],
    "status": "candidate",
    "wins": 0,
-   "losses": 1940
+   "losses": 2004
   },
   {
    "child": "auto-env-checker+cdp-social-posting",
@@ -170222,7 +172846,7 @@
    ],
    "status": "candidate",
    "wins": 0,
-   "losses": 3635
+   "losses": 3699
   },
   {
    "child": "auto-env-checker__mutadd_pitfall",
@@ -170251,7 +172875,7 @@
    "child": "auto-env-checker__mutbroaden_trigger",
    "parent": "auto-env-checker",
    "op": "broaden_trigger",
-   "born": "2026-10-09T00:15:44.194551+00:00",
+   "born": "2026-10-09T19:45:49.940941+00:00",
    "status": "candidate",
    "wins": 0,
    "losses": 1,
@@ -170273,7 +172897,7 @@
    "child": "autonomous-learning-architecture__mutbroaden_trigger",
    "parent": "autonomous-learning-architecture",
    "op": "broaden_trigger",
-   "born": "2026-10-09T00:15:44.194551+00:00",
+   "born": "2026-10-09T19:45:49.940941+00:00",
    "status": "candidate",
    "wins": 0,
    "losses": 1,
@@ -170288,13 +172912,13 @@
    "born": "2026-09-10T03:30:51.811168+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 2661
+   "losses": 2725
   },
   {
    "child": "cdp-social-posting__mutbroaden_trigger",
    "parent": "cdp-social-posting",
    "op": "broaden_trigger",
-   "born": "2026-10-09T00:15:44.194551+00:00",
+   "born": "2026-10-09T19:45:49.940941+00:00",
    "status": "candidate",
    "wins": 0,
    "losses": 1,
@@ -170309,7 +172933,7 @@
    "born": "2026-10-04T08:30:14.898680+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 477,
+   "losses": 541,
    "parent_probe": 0.5,
    "variant_probe": 0.5,
    "delta": 0.0
@@ -170321,7 +172945,7 @@
    "born": "2026-08-30T19:33:01.759032+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 3926
+   "losses": 3990
   },
   {
    "child": "discord-server-management__mutbroaden_trigger",
@@ -170330,7 +172954,7 @@
    "born": "2026-08-30T14:44:13.320724+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 3979
+   "losses": 4043
   },
   {
    "child": "discord-server-management__muttighten_trigger",
@@ -170339,7 +172963,7 @@
    "born": "2026-09-04T17:45:59.981415+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 3621
+   "losses": 3685
   },
   {
    "child": "github-readme-summary__mutbroaden_trigger",
@@ -170348,7 +172972,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 3988
+   "losses": 4052
   },
   {
    "child": "github-readme-summary__muttighten_trigger",
@@ -170357,7 +172981,7 @@
    "born": "2026-09-03T16:15:12.033958+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 3825
+   "losses": 3889
   },
   {
    "child": "openamer-plugin-development__muttighten_trigger",
@@ -170366,7 +172990,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 3989
+   "losses": 4053
   },
   {
    "child": "plugin-api__mutbroaden_trigger",
@@ -170375,7 +172999,7 @@
    "born": "2026-09-13T14:30:28.128905+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 2192
+   "losses": 2256
   },
   {
    "child": "plugin-api__muttighten_trigger",
@@ -170384,7 +173008,7 @@
    "born": "2026-09-24T13:15:17.780370+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 808,
+   "losses": 872,
    "parent_probe": 1.0,
    "variant_probe": 1.0,
    "delta": 0.0
@@ -170416,7 +173040,7 @@
    "born": "2026-08-30T14:44:13.320724+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 3979
+   "losses": 4043
   },
   {
    "child": "train-from-usage__mutadd_verification_step",
@@ -170425,7 +173049,7 @@
    "born": "2026-08-30T17:38:36.748033+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 3948
+   "losses": 4012
   },
   {
    "child": "train-from-usage__mutbroaden_trigger",
@@ -170434,7 +173058,7 @@
    "born": "2026-09-24T15:07:26.922202+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 795,
+   "losses": 859,
    "parent_probe": 1.0,
    "variant_probe": 1.0,
    "delta": 0.0
@@ -170446,7 +173070,7 @@
    "born": "2026-10-04T23:30:30.617814+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 361,
+   "losses": 425,
    "parent_probe": 1.0,
    "variant_probe": 1.0,
    "delta": 0.0
@@ -170458,7 +173082,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 3989
+   "losses": 4053
   },
   {
    "child": "vscode-extension-scaffold__mutbroaden_trigger",
@@ -170467,7 +173091,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 3989
+   "losses": 4053
   }
  ],
  "quarantine_log": [
@@ -171261,6 +173885,42 @@
    "skill": "darwin-harvested-darwin-swarm-json",
    "fitness": 0,
    "when": "2026-10-08T23:00:36.472276+00:00",
+   "reason": "arena-loses"
+  },
+  {
+   "skill": "darwin-harvested-im-subprocess-der-cron-wrapper-test-",
+   "fitness": 0,
+   "when": "2026-10-09T00:30:39.116074+00:00",
+   "reason": "arena-loses"
+  },
+  {
+   "skill": "darwin-harvested-vaultfinal-skills",
+   "fitness": 0,
+   "when": "2026-10-09T03:30:05.403954+00:00",
+   "reason": "arena-loses"
+  },
+  {
+   "skill": "darwin-harvested-vaultfinal-models",
+   "fitness": 0,
+   "when": "2026-10-09T14:00:32.434404+00:00",
+   "reason": "arena-loses"
+  },
+  {
+   "skill": "darwin-harvested-darwin-gate-queue-json",
+   "fitness": 0,
+   "when": "2026-10-09T14:30:33.467919+00:00",
+   "reason": "arena-loses"
+  },
+  {
+   "skill": "darwin-harvested-repo-nworked-fine-an-msys-path-quirk",
+   "fitness": 0,
+   "when": "2026-10-09T18:45:42.243009+00:00",
+   "reason": "arena-loses"
+  },
+  {
+   "skill": "darwin-harvested-guardrails-py-l31-n-function",
+   "fitness": 0,
+   "when": "2026-10-09T19:15:47.383763+00:00",
    "reason": "arena-loses"
   }
  ],
