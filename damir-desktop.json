@@ -1,5 +1,5 @@
 {
- "exported": "2026-10-12T19:54:14.061133+00:00",
+ "exported": "2026-10-13T01:55:24.878413+00:00",
  "population": {
   "s": {
    "wins": 1,
@@ -150,12 +150,12 @@
    "losses": 7
   },
   "darwin-cron-guard": {
-   "wins": 390,
+   "wins": 396,
    "losses": 24
   },
   "darwin-harvested-n-permission-8-permission-denied-n-f": {
    "wins": 33,
-   "losses": 18
+   "losses": 19
   },
   "darwin-harvested-damir-bounds-height-no-suc": {
    "wins": 2,
@@ -199,7 +199,7 @@
   },
   "darwin-harvested-cron-jobs-json": {
    "wins": 28,
-   "losses": 23
+   "losses": 24
   },
   "darwin-harvested-damir-bounds-width-no-such": {
    "wins": 5,
@@ -207,7 +207,7 @@
   },
   "darwin-harvested-damir-bounds-y-no-such-fil": {
    "wins": 33,
-   "losses": 17
+   "losses": 18
   },
   "darwin-harvested-go-zip": {
    "wins": 5,
@@ -238,7 +238,7 @@
    "losses": 4
   },
   "darwin-harvested-openamer-cli-main-py": {
-   "wins": 31,
+   "wins": 32,
    "losses": 19
   },
   "darwin-harvested-openamer-browser": {
@@ -322,7 +322,7 @@
    "losses": 23
   },
   "darwin-harvested-training-internet-learn-log-jsonl": {
-   "wins": 386,
+   "wins": 392,
    "losses": 21
   },
   "darwin-harvested-damir-commandline-no-such": {
@@ -446,7 +446,7 @@
    "losses": 3
   },
   "darwin-harvested-z-b-torch-import-optional-machen-try": {
-   "wins": 12,
+   "wins": 13,
    "losses": 5
   },
   "darwin-harvested-tmp-check-online-l": {
@@ -886,7 +886,7 @@
    "losses": 2
   },
   "darwin-harvested-tmp-kta-probe-py": {
-   "wins": 4,
+   "wins": 5,
    "losses": 3
   },
   "darwin-harvested-vaultfinal-skills": {
@@ -918,8 +918,24 @@
    "losses": 0
   },
   "autonomous-learning-architecture": {
-   "wins": 366,
+   "wins": 372,
    "losses": 30
+  },
+  "darwin-harvested-relative-to-the-ncurrent-drive": {
+   "wins": 1,
+   "losses": 0
+  },
+  "darwin-harvested-mainwt": {
+   "wins": 0,
+   "losses": 1
+  },
+  "darwin-harvested-tmp-nist-f-r-den-windows-interpreter": {
+   "wins": 1,
+   "losses": 0
+  },
+  "darwin-harvested-browser-scripts": {
+   "wins": 0,
+   "losses": 1
   }
  },
  "lineage": {
@@ -193911,6 +193927,350 @@
     "kind": "predation",
     "when": "2026-10-12T19:21:05.781291+00:00",
     "overlap": 1.0
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T20:30:50.452824+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T20:30:50.452824+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T20:30:50.452824+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T20:30:50.452824+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-loops",
+    "kind": "predation",
+    "when": "2026-10-12T20:30:50.452824+00:00",
+    "overlap": 0.67
+   },
+   {
+    "parent": "darwin-cron-guard",
+    "child": "guard",
+    "kind": "predation",
+    "when": "2026-10-12T20:30:50.452824+00:00",
+    "overlap": 1.0
+   },
+   {
+    "parent": "darwin-harvested-training-internet-learn-log-jsonl",
+    "child": "learn",
+    "kind": "predation",
+    "when": "2026-10-12T20:30:50.452824+00:00",
+    "overlap": 1.0
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T21:31:13.737767+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T21:31:13.737767+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T21:31:13.737767+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T21:31:13.737767+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-loops",
+    "kind": "predation",
+    "when": "2026-10-12T21:31:13.737767+00:00",
+    "overlap": 0.67
+   },
+   {
+    "parent": "darwin-cron-guard",
+    "child": "guard",
+    "kind": "predation",
+    "when": "2026-10-12T21:31:13.737767+00:00",
+    "overlap": 1.0
+   },
+   {
+    "parent": "darwin-harvested-training-internet-learn-log-jsonl",
+    "child": "learn",
+    "kind": "predation",
+    "when": "2026-10-12T21:31:13.737767+00:00",
+    "overlap": 1.0
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T22:27:42.842411+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T22:27:42.842411+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T22:27:42.842411+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T22:27:42.842411+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-loops",
+    "kind": "predation",
+    "when": "2026-10-12T22:27:42.842411+00:00",
+    "overlap": 0.67
+   },
+   {
+    "parent": "darwin-cron-guard",
+    "child": "guard",
+    "kind": "predation",
+    "when": "2026-10-12T22:27:42.842411+00:00",
+    "overlap": 1.0
+   },
+   {
+    "parent": "darwin-harvested-training-internet-learn-log-jsonl",
+    "child": "learn",
+    "kind": "predation",
+    "when": "2026-10-12T22:27:42.842411+00:00",
+    "overlap": 1.0
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T23:50:35.864656+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T23:50:35.864656+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T23:50:35.864656+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-12T23:50:35.864656+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "darwin-harvested-relative-to-the-ncurrent-drive",
+    "kind": "speciation",
+    "when": "2026-10-12T23:50:35.864656+00:00"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "darwin-harvested-mainwt",
+    "kind": "speciation",
+    "when": "2026-10-12T23:50:35.864656+00:00"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-loops",
+    "kind": "predation",
+    "when": "2026-10-12T23:50:35.864656+00:00",
+    "overlap": 0.67
+   },
+   {
+    "parent": "darwin-cron-guard",
+    "child": "guard",
+    "kind": "predation",
+    "when": "2026-10-12T23:50:35.864656+00:00",
+    "overlap": 1.0
+   },
+   {
+    "parent": "darwin-harvested-training-internet-learn-log-jsonl",
+    "child": "learn",
+    "kind": "predation",
+    "when": "2026-10-12T23:50:35.864656+00:00",
+    "overlap": 1.0
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-13T00:55:55.380625+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-13T00:55:55.380625+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-13T00:55:55.380625+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-13T00:55:55.380625+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "darwin-cron-guard",
+    "child": "darwin-cron-guard__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-13T00:55:55.380625+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "darwin-harvested-tmp-nist-f-r-den-windows-interpreter",
+    "kind": "speciation",
+    "when": "2026-10-13T00:55:55.380625+00:00"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "darwin-harvested-browser-scripts",
+    "kind": "speciation",
+    "when": "2026-10-13T00:55:55.380625+00:00"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-loops",
+    "kind": "predation",
+    "when": "2026-10-13T00:55:55.380625+00:00",
+    "overlap": 0.67
+   },
+   {
+    "parent": "darwin-cron-guard",
+    "child": "guard",
+    "kind": "predation",
+    "when": "2026-10-13T00:55:55.380625+00:00",
+    "overlap": 1.0
+   },
+   {
+    "parent": "darwin-harvested-training-internet-learn-log-jsonl",
+    "child": "learn",
+    "kind": "predation",
+    "when": "2026-10-13T00:55:55.380625+00:00",
+    "overlap": 1.0
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-architecture__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-13T01:25:34.128500+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "asi-capability-summary",
+    "child": "asi-capability-summary__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-13T01:25:34.128500+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "a2a-brain-meshlearn-verify",
+    "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-13T01:25:34.128500+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "auto-env-checker",
+    "child": "auto-env-checker__mutbroaden_trigger",
+    "kind": "mutation",
+    "when": "2026-10-13T01:25:34.128500+00:00",
+    "op": "broaden_trigger"
+   },
+   {
+    "parent": "darwin-cron-guard",
+    "child": "darwin-cron-guard__muttighten_trigger",
+    "kind": "mutation",
+    "when": "2026-10-13T01:25:34.128500+00:00",
+    "op": "tighten_trigger"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "darwin-harvested-openamer-cli",
+    "kind": "speciation",
+    "when": "2026-10-13T01:25:34.128500+00:00"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "darwin-harvested-tools-code-kernel-py",
+    "kind": "speciation",
+    "when": "2026-10-13T01:25:34.128500+00:00"
+   },
+   {
+    "parent": "autonomous-learning-architecture",
+    "child": "autonomous-learning-loops",
+    "kind": "predation",
+    "when": "2026-10-13T01:25:34.128500+00:00",
+    "overlap": 0.67
+   },
+   {
+    "parent": "darwin-cron-guard",
+    "child": "guard",
+    "kind": "predation",
+    "when": "2026-10-13T01:25:34.128500+00:00",
+    "overlap": 1.0
+   },
+   {
+    "parent": "darwin-harvested-training-internet-learn-log-jsonl",
+    "child": "learn",
+    "kind": "predation",
+    "when": "2026-10-13T01:25:34.128500+00:00",
+    "overlap": 1.0
    }
   ]
  },
@@ -193929,7 +194289,7 @@
    ],
    "status": "candidate",
    "wins": 0,
-   "losses": 285
+   "losses": 291
   },
   {
    "parent": "a2a-brain-meshlearn-verify",
@@ -193943,21 +194303,25 @@
    "variant_verify": 1.0,
    "verify_delta": 0.0,
    "status": "candidate",
-   "born": "2026-10-12T19:21:05.781291+00:00",
+   "born": "2026-10-12T23:50:35.864656+00:00",
    "wins": 0,
-   "losses": 1
+   "losses": 3
   },
   {
-   "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
    "parent": "a2a-brain-meshlearn-verify",
+   "child": "a2a-brain-meshlearn-verify__muttighten_trigger",
    "op": "tighten_trigger",
-   "born": "2026-10-10T02:15:45.168786+00:00",
-   "status": "candidate",
-   "wins": 0,
-   "losses": 413,
+   "applied": true,
    "parent_probe": 1.0,
    "variant_probe": 1.0,
-   "delta": 0.0
+   "delta": 0.0,
+   "parent_verify": 1.0,
+   "variant_verify": 1.0,
+   "verify_delta": 0.0,
+   "status": "candidate",
+   "born": "2026-10-13T01:25:34.128500+00:00",
+   "wins": 0,
+   "losses": 1
   },
   {
    "child": "asi-capability-summary+asi-identity",
@@ -193973,19 +194337,23 @@
    ],
    "status": "candidate",
    "wins": 0,
-   "losses": 2123
+   "losses": 2129
   },
   {
-   "child": "asi-capability-summary__mutbroaden_trigger",
    "parent": "asi-capability-summary",
+   "child": "asi-capability-summary__mutbroaden_trigger",
    "op": "broaden_trigger",
-   "born": "2026-10-04T08:30:14.898680+00:00",
-   "status": "candidate",
-   "wins": 0,
-   "losses": 1004,
+   "applied": true,
    "parent_probe": 1.0,
    "variant_probe": 1.0,
-   "delta": 0.0
+   "delta": 0.0,
+   "parent_verify": 1.0,
+   "variant_verify": 1.0,
+   "verify_delta": 0.0,
+   "status": "candidate",
+   "born": "2026-10-13T01:25:34.128500+00:00",
+   "wins": 0,
+   "losses": 1
   },
   {
    "parent": "asi-capability-summary",
@@ -193999,9 +194367,9 @@
    "variant_verify": 1.0,
    "verify_delta": 0.0,
    "status": "candidate",
-   "born": "2026-10-12T19:21:05.781291+00:00",
+   "born": "2026-10-12T23:50:35.864656+00:00",
    "wins": 0,
-   "losses": 1
+   "losses": 3
   },
   {
    "child": "asi-identity+auto-env-checker",
@@ -194017,7 +194385,7 @@
    ],
    "status": "candidate",
    "wins": 0,
-   "losses": 2452
+   "losses": 2458
   },
   {
    "child": "auto-env-checker+autonomous-learning-architecture",
@@ -194033,7 +194401,7 @@
    ],
    "status": "candidate",
    "wins": 0,
-   "losses": 2465
+   "losses": 2471
   },
   {
    "child": "auto-env-checker+cdp-social-posting",
@@ -194049,7 +194417,7 @@
    ],
    "status": "candidate",
    "wins": 0,
-   "losses": 4159
+   "losses": 4165
   },
   {
    "child": "auto-env-checker__mutadd_pitfall",
@@ -194086,7 +194454,7 @@
    "variant_verify": 1.0,
    "verify_delta": 0.0,
    "status": "candidate",
-   "born": "2026-10-12T19:21:05.781291+00:00",
+   "born": "2026-10-13T01:25:34.128500+00:00",
    "wins": 0,
    "losses": 1
   },
@@ -194112,7 +194480,7 @@
    "variant_verify": 1.0,
    "verify_delta": 0.0,
    "status": "candidate",
-   "born": "2026-10-12T19:21:05.781291+00:00",
+   "born": "2026-10-13T01:25:34.128500+00:00",
    "wins": 0,
    "losses": 1
   },
@@ -194123,7 +194491,7 @@
    "born": "2026-09-10T03:30:51.811168+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 3185
+   "losses": 3191
   },
   {
    "child": "cdp-social-posting__mutbroaden_trigger",
@@ -194132,7 +194500,7 @@
    "born": "2026-10-10T02:15:45.168786+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 411,
+   "losses": 417,
    "parent_probe": 1.0,
    "variant_probe": 1.0,
    "delta": 0.0
@@ -194144,10 +194512,26 @@
    "born": "2026-10-10T15:01:18.351229+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 283,
+   "losses": 289,
    "parent_probe": 1.0,
    "variant_probe": 1.0,
    "delta": 0.0
+  },
+  {
+   "parent": "darwin-cron-guard",
+   "child": "darwin-cron-guard__muttighten_trigger",
+   "op": "tighten_trigger",
+   "applied": true,
+   "parent_probe": 1.0,
+   "variant_probe": 1.0,
+   "delta": 0.0,
+   "parent_verify": 1.0,
+   "variant_verify": 1.0,
+   "verify_delta": 0.0,
+   "status": "candidate",
+   "born": "2026-10-13T01:25:34.128500+00:00",
+   "wins": 0,
+   "losses": 1
   },
   {
    "child": "discord-server-management__mutadd_verification_step",
@@ -194156,7 +194540,7 @@
    "born": "2026-08-30T19:33:01.759032+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 4450
+   "losses": 4456
   },
   {
    "child": "discord-server-management__mutbroaden_trigger",
@@ -194165,7 +194549,7 @@
    "born": "2026-08-30T14:44:13.320724+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 4503
+   "losses": 4509
   },
   {
    "child": "discord-server-management__muttighten_trigger",
@@ -194174,7 +194558,7 @@
    "born": "2026-09-04T17:45:59.981415+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 4145
+   "losses": 4151
   },
   {
    "child": "github-readme-summary__mutbroaden_trigger",
@@ -194183,7 +194567,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 4512
+   "losses": 4518
   },
   {
    "child": "github-readme-summary__muttighten_trigger",
@@ -194192,7 +194576,7 @@
    "born": "2026-09-03T16:15:12.033958+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 4347
+   "losses": 4353
   },
   {
    "child": "openamer-plugin-development__muttighten_trigger",
@@ -194201,7 +194585,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 4511
+   "losses": 4517
   },
   {
    "child": "plugin-api__mutbroaden_trigger",
@@ -194210,7 +194594,7 @@
    "born": "2026-09-13T14:30:28.128905+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 2713
+   "losses": 2719
   },
   {
    "child": "plugin-api__muttighten_trigger",
@@ -194219,7 +194603,7 @@
    "born": "2026-09-24T13:15:17.780370+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 1328,
+   "losses": 1334,
    "parent_probe": 1.0,
    "variant_probe": 1.0,
    "delta": 0.0
@@ -194251,7 +194635,7 @@
    "born": "2026-08-30T14:44:13.320724+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 4499
+   "losses": 4505
   },
   {
    "child": "train-from-usage__mutadd_verification_step",
@@ -194260,7 +194644,7 @@
    "born": "2026-08-30T17:38:36.748033+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 4468
+   "losses": 4474
   },
   {
    "child": "train-from-usage__mutbroaden_trigger",
@@ -194269,7 +194653,7 @@
    "born": "2026-09-24T15:07:26.922202+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 1314,
+   "losses": 1320,
    "parent_probe": 1.0,
    "variant_probe": 1.0,
    "delta": 0.0
@@ -194281,7 +194665,7 @@
    "born": "2026-10-04T23:30:30.617814+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 880,
+   "losses": 886,
    "parent_probe": 1.0,
    "variant_probe": 1.0,
    "delta": 0.0
@@ -194293,7 +194677,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 4507
+   "losses": 4513
   },
   {
    "child": "vscode-extension-scaffold__mutbroaden_trigger",
@@ -194302,7 +194686,7 @@
    "born": "2026-08-30T13:32:13.672239+00:00",
    "status": "candidate",
    "wins": 0,
-   "losses": 4507
+   "losses": 4513
   }
  ],
  "quarantine_log": [
